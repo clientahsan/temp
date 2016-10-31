@@ -131,7 +131,7 @@ header .logo .sTitle{
 
 nav {
     margin: 0 0 15px;
-    padding-top: 10px;   
+    padding-top: 0px;   
     background-color: #0079ed;
     color: #FFF;
     border-bottom: 2px solid #ddd;
@@ -167,7 +167,7 @@ nav ul li a{
 	border-bottom:  1px solid #0044b8;
 	font: 7px 'Oswald';
 	text-transform: uppercase;
-	color: #424242;
+	color: #000000;
 }
 
 nav ul li a:hover{
