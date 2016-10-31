@@ -165,7 +165,7 @@ nav ul li a{
 	display: block;
 	padding: 15px 0;
 	border-bottom:  1px solid #0044b8;
-	font: 0px 'Oswald';
+	font: 7px 'Oswald';
 	text-transform: uppercase;
 	color: #424242;
 }
@@ -716,7 +716,7 @@ footer a {
 }
 
 footer a:hover { 
-  text-decoration: underline;
+  text-decoration: none;
   color: #FFF; 
 }
 
@@ -734,7 +734,7 @@ footer a:hover {
 }
 
 #author span a:hover{
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 #author #mAuthor{
@@ -1043,7 +1043,7 @@ nav ul li a i{
 }
 
 nav ul li a:hover, nav ul li a:active{
-    padding: 33px 2px;
+    padding: 33px 0px;
     border: 0;
 }
 
