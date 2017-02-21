@@ -25,7 +25,7 @@ html, body {width:100%; padding:0; margin:0;}
 body {/*background: #999999;*/color: #474747;font: 12px/25px Arial, Helvetica, sans-serif;}
 
 a{color: #474747;text-decoration: none;}
-a:hover {color: #DA251D; text-decoration: none;}
+a:hover {color: #264a90; text-decoration: none;}
 
 a.button{cursor: pointer;color: #ffffff;line-height: 14px;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;	background: #3F3F3F;border:1px solid #ffffff; -webkit-border-radius: 4px;-moz-border-radius: 4px;-khtml-border-radius: 4px;border-radius: 4px;}
 a.button {	display: inline-block;	text-decoration: none;	padding: 6px 12px 6px 12px;}
