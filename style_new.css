@@ -142,7 +142,7 @@ margin-bottom: 2px;
 #pagi li {float: left;margin-right: 10px;}
 #pagi li a {display: block;	text-decoration: none; color: #717171;font: bold 11px Arial, sans-serif;padding: 5px 8px;
 	-webkit-border-radius: 3px;	-moz-border-radius: 3px;	border-radius: 3px;	background: #ffffff;}
-#pagi li a.current, #pagi li a:hover {color: #ffffff;	background: #DA251D;}
+#pagi li a.current, #pagi li a:hover {color: #ffffff;	background: #264a90;}
 
 /* -------------------------------------------- */
 /* ------------------Footer-------------------- */
