@@ -1,0 +1,223 @@
+html {
+   -webkit-text-size-adjust: none;
+}
+.video embed,
+.video object,
+.video iframe {
+   width: 100%;
+   height: auto;
+}
+img{
+	max-width:100%;
+	/*height: auto;*/
+   	width: auto\9; /* ie8 */
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	/* -------------------------------------------- */
+	/* ------------------Header-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Content------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Footer-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Other----------------*---- */
+	
+}
+
+@media only screen and (max-width: 767px) {
+	/* -------------------------------------------- */
+	/* ------------------Header-------------------- */
+	header {margin-top: 0px;height:120px;}
+	header #logo{top:10px;}
+
+	nav .wrap-nav{top: 10px; left:10px; right:auto;}
+	embed {width: 100%;height: 100%;}
+	
+	/* -------------------------------------------- */
+	/* ------------------Featured------------------ */
+	
+	/* -------------------------------------------- */
+	/* ------------------Content------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Footer-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Other----------------*---- */
+}
+
+@media only screen and (min-width: 620px) and (max-width: 767px) {
+	/* -------------------------------------------- */
+	/* ------------------Header-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Content------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Footer-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Other----------------*---- */
+}
+
+@media only screen and (min-width: 480px) and (max-width: 619px) {
+	/* -------------------------------------------- */
+	/* ------------------Header-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Content------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Footer-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Other----------------*---- */
+}
+
+@media only screen and (max-width: 479px) {
+	/* -------------------------------------------- */
+	/* ------------------Header-------------------- */
+	header{height: 120px;}
+	header #logo{top: 10px;}
+.menu ul li a{color: #454545;}
+	nav .wrap-nav {position:relative; height: 37px; left:0px; top:0px;}
+	/*.menu{display:none;}*/
+	.minimenu{display:block;}
+	.menu {background: #;}
+	.heading{  line-height: 20px;}
+	embed {width: 100%;height: 100%;}
+	
+	/* -------------------------------------------- */
+	/* ------------------Content------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Footer-------------------- */
+	
+	/* -------------------------------------------- */
+	/* ------------------Other----------------*---- */
+}
+
+@media (min-width: 900px) {
+  .menu {
+    font-size: 1.2em;
+  }
+}
+.menu {
+  padding: 0.5em;
+  min-height: 2em;
+  line-height: 1em;
+}
+.menu > ul {
+  transition: max-height 0.25s linear;
+}
+.menu ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.menu li {
+  transition: visibility .25s linear;
+  display: inline-block;
+  border: 1px solid;
+  padding: .45em 1.1em;
+  position: relative;
+}
+@media (min-width: 651px) {
+  .menu li ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    margin-top: 1px;
+    left: -1px;
+    right: -1px;
+  }
+  .menu li:hover ul {
+    display: block;
+  }
+  .menu li li {
+    margin: -1px 0 0 0;
+    box-sizing: border-box;
+    width: 100%;
+  }
+}
+@media (max-width: 650px) {
+#menu2 {width: 100%;padding: 0px 11px 0px 11px;}
+#menu2 ul li {float: none;}
+#menu2 ul {padding: 7px 0px 0px 0px;}
+  .menu > ul {
+    max-height: 0;
+    overflow: hidden;
+    margin: 0 3.5em 0 1em;
+  }
+  .menu li {
+    visibility: hidden;
+    display: block;
+    padding: 0.5em 0.6em;
+    border: none;
+  }
+  .menu li ul {
+    margin-top: 0.5em;
+    border-left: 1px solid #000;
+  }
+  .menu .navbar-handle {
+    display: block;
+  }
+  #navbar-checkbox:checked + .menu ul {
+    max-height: 300px;
+  }
+  #navbar-checkbox:checked + .menu li {
+    visibility: visible;
+  }
+  #navbar-checkbox:checked + .menu .navbar-handle,
+  #navbar-checkbox:checked + .menu .navbar-handle:after,
+  #navbar-checkbox:checked + .menu .navbar-handle:before {
+    border-color: #aaa;
+  }
+#sidebar .heading{
+    padding: 7px !important;
+}  
+}
+.navbar-checkbox {
+  display: none;
+}
+.navbar-handle {
+  display: none;
+  cursor: pointer;
+  position: relative;
+  font-size: 45px;
+  padding: .5em 0;
+  height: 0;
+  width: 1.66666667em;
+  border-top: 0.13333333em solid;
+}
+.navbar-handle:before,
+.navbar-handle:after {
+  position: absolute;
+  left: 0;
+  right: 0;
+  content: ' ';
+  border-top: 0.13333333em solid;
+}
+.navbar-handle:before {
+  top: 0.37777778em;
+}
+.navbar-handle:after {
+  top: 0.88888889em;
+}
+.menu {
+  /*position: absolute;*/
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.menu .navbar-handle {
+  position: absolute;
+  font-size: 1.2em;
+  top: -3.3em;
+  right: 12px;
+  z-index: 10;
+}

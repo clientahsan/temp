@@ -1,0 +1,43 @@
+/*MEDIA QUERIES*/
+/*1 Column for Narrow Browser Windows and Smartphones in both orientations*/
+@media only screen and (min-width: 0px) and (max-width: 680px) {
+ul.menutop {display: block;}
+.menutop li {
+	display: block;
+	float: none;
+	margin-right: 0px;
+	margin-bottom: 5px;
+}
+.mlogo {margin-left: 5px !important;}
+.plogo {display:none;}
+#gal { width: 100%; padding: 0 0% 0 0%;}
+#gal img {
+    width: 150px;
+    height: auto;
+   }
+.highslide img {
+background-image: url(../images/gallery-mo.png) !important;
+background-repeat: no-repeat;
+}
+#gallery{padding-left: 15px;}
+.content {
+	padding: 15px;
+	font-size: 1em;
+	line-height: 1.5em;
+}
+.bg_inner911 {
+  width: 100%!important;
+    /*margin-left: -15px;*/
+  }
+
+}
+
+@media screen and (max-width: 1024px)
+{
+.content-wrapper {
+margin: 0px;
+overflow: hidden;
+width: 100% !important;
+}
+.line-img{width: 290px;}
+}

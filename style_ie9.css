@@ -1,0 +1,28 @@
+ .content img{
+    width: 100%;
+    max-width: 25em;
+}
+header #logo{
+    width: 100%;
+    max-width: 25em;
+}
+
+.highslide img {
+    width: 150px;
+    max-width: 25em;
+    margin:20px;
+} 
+.highslide {
+  cursor: url(http://www.ebaytemplateshop.com/assets/Gallery/graphics/zoomin.cur); 
+  padding: 20px;
+  background-image: url(http://ebaytemplateshop.com/assets/Gallery/gallery-bg.png);
+  background-repeat: no-repeat;  
+  position: relative;
+} 
+footer .content img{
+    width: 35em\9;;
+}
+
+#content .wrap-content{margin:0 auto;width:100%;}
+
+.zerogrid{width:100%;}
