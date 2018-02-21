@@ -560,11 +560,11 @@ ul{
 .tab-block  input[type="radio"] {
     display: none;
 }
-.tabs .tab-selector-1:checked ~ .label-block .tab-label-1, .tabs .tab-selector-2:checked ~ .label-block .tab-label-2, .tabs .tab-selector-3:checked ~ .label-block .tab-label-3, .tabs .tab-selector-4:checked ~ .label-block .tab-label-4,
+.tabs .tab-selector-1:checked ~ .label-block .tab-label-1, .tabs .tab-selector-2:checked ~ .label-block .tab-label-2, .tabs .tab-selector-3:checked ~ .label-block .tab-label-3, .tabs .tab-selector-4:checked ~ .label-block .tab-label-4,.tabs .tab-selector-5:checked ~ .label-block .tab-label-5,
 .label-block label:hover{
 	color:#fff;
 }
-.tabs .tab-selector-1:checked ~ .label-block .tab-label-1::after, .tabs .tab-selector-2:checked ~ .label-block .tab-label-2::after, .tabs .tab-selector-3:checked ~ .label-block .tab-label-3::after, .tabs .tab-selector-4:checked ~ .label-block .tab-label-4::after,
+.tabs .tab-selector-1:checked ~ .label-block .tab-label-1::after, .tabs .tab-selector-2:checked ~ .label-block .tab-label-2::after, .tabs .tab-selector-3:checked ~ .label-block .tab-label-3::after, .tabs .tab-selector-4:checked ~ .label-block .tab-label-4::after,.tabs .tab-selector-5:checked ~ .label-block .tab-label-5::after,
 .label-block label:hover::after{
 	position:absolute;
 	left:0;
@@ -580,7 +580,7 @@ ul{
 	z-index:-3;
 	color:#fff;
 }
-.tabs .tab-selector-1:checked ~ .tab-content #menu1, .tabs .tab-selector-2:checked ~ .tab-content #menu2, .tabs .tab-selector-3:checked ~ .tab-content #menu3, .tabs .tab-selector-4:checked ~ .tab-content #menu4 {
+.tabs .tab-selector-1:checked ~ .tab-content #menu1, .tabs .tab-selector-2:checked ~ .tab-content #menu2, .tabs .tab-selector-3:checked ~ .tab-content #menu3, .tabs .tab-selector-4:checked ~ .tab-content #menu4, .tabs .tab-selector-5:checked ~ .tab-content #menu5 {
     height: auto;
     opacity: 1;
     width: 100%;
@@ -752,7 +752,7 @@ video.responsive-video{
 	color:#fff;
 }
 .footer-top p{
-	text-align:center;
+	text-align:left;
 	font-size:12px;
 	color:#fff;
 	font-family: sans-serif;
@@ -1322,8 +1322,3 @@ video.responsive-video{
 @media only screen and (min-width: 1200px){
 
 }
-
-
-
-
-
