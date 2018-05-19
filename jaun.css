@@ -231,7 +231,7 @@ body{
  position: absolute;
  display: block;
  border-style: solid;
- border-color: #ffffff transparent transparent transparent;
+ border-color: #66666 transparent transparent transparent;
  bottom: -1em;
  z-index:7;
 }
@@ -317,7 +317,7 @@ body{
 	top: 0;
 	right: 0;
 	opacity: 0;
-	border: 1px solid #d7d7d7;
+	border: 1px solid #6666;
 	background:#ffffff;
 }
 .frame .big-img img{
@@ -342,7 +342,7 @@ body{
 	height: 101px;
 	width: 114px;
 	margin-right:8px;
-	border: 1px solid #ffffff;
+	border: 1px solid #6666;
 	position:relative;
 	background:#fff;
 }
@@ -633,7 +633,7 @@ body{
 	float:left;
 	margin:52px 0 0;
 	padding:42px 0;
-	background:#ffffff;
+	background:#6666;
 }
 .service-list li{
 	width:33.33%;
@@ -738,7 +738,7 @@ body{
  position: absolute;
  display: block;
  border-style: solid;
- border-color: #ffffff transparent transparent transparent;
+ border-color: #6666 transparent transparent transparent;
  bottom: -1em;
  z-index:7;
 }
