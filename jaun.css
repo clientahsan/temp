@@ -103,7 +103,7 @@ body{
 	text-transform:uppercase;
 }
 .header-info ul li a:hover{
-	color:#666666;
+	color:#b31718;
 }
 .header-right{
 	width:38%;
@@ -213,7 +213,7 @@ body{
  position: absolute;
  display: block;
  bottom: -1em;
- border: 1.5em solid #666666;
+ border: 1.5em solid #b31718;
  z-index: 3;
 }
 #navbar:before {
@@ -231,7 +231,7 @@ body{
  position: absolute;
  display: block;
  border-style: solid;
- border-color: #cccccc transparent transparent transparent;
+ border-color: #ffffff transparent transparent transparent;
  bottom: -1em;
  z-index:7;
 }
@@ -247,7 +247,7 @@ body{
 	float:left;
 	width:100%;
 	text-align:center;
-	background:#666666;
+	background:#b31718;
 }
 #navbar ul li{
 	display:inline-block;
@@ -318,7 +318,7 @@ body{
 	right: 0;
 	opacity: 0;
 	border: 1px solid #d7d7d7;
-	background:#cccccc;
+	background:#ffffff;
 }
 .frame .big-img img{
 	position:absolute;
@@ -342,7 +342,7 @@ body{
 	height: 101px;
 	width: 114px;
 	margin-right:8px;
-	border: 1px solid #d7d7d7;
+	border: 1px solid #ffffff;
 	position:relative;
 	background:#fff;
 }
@@ -633,7 +633,7 @@ body{
 	float:left;
 	margin:52px 0 0;
 	padding:42px 0;
-	background:#cccccc;
+	background:#ffffff;
 }
 .service-list li{
 	width:33.33%;
@@ -702,7 +702,7 @@ body{
 	text-align:center;
 	margin:0 0 30px;
 	display:block;
-	background:#666666;
+	background:#b31718;
 	margin-top:-33px;
 	position:relative;
 }
@@ -717,7 +717,7 @@ body{
  position: absolute;
  display: block;
  bottom: -1em;
- border: 1.5em solid #666666;
+ border: 1.5em solid #b31718;
  z-index: 3;
 }
 .label-block:before,
@@ -738,7 +738,7 @@ body{
  position: absolute;
  display: block;
  border-style: solid;
- border-color: #cccccc transparent transparent transparent;
+ border-color: #ffffff transparent transparent transparent;
  bottom: -1em;
  z-index:7;
 }
@@ -882,7 +882,7 @@ video.responsive-video{
 }
 .product-item li h3{
 	font-size:36px;
-	color:#666666000;
+	color:#b31718000;
 	line-height:normal;
 	margin:0px;
 	font-weight:normal;
@@ -970,7 +970,7 @@ video.responsive-video{
 	font-weight:500;
 }
 .quick-link li a:hover{
-	color:#666666;
+	color:#b31718;
 }
 .quick-links li a:hover{
 	color:#2c2c2c;
@@ -994,7 +994,7 @@ video.responsive-video{
 	height:auto;
 	display:block;
 	float:left;
-	background:#666666;
+	background:#b31718;
 	line-height:44px;
 	text-align:center;
 	font-weight:500;
@@ -1343,7 +1343,7 @@ video.responsive-video{
 .menu-container{
 	position:relative;
 	padding:8px 0;
-	background: #cccccc;
+	background: #ffffff;
 }
 #navbar ul li{
 	width:100%;
@@ -1567,7 +1567,6 @@ video.responsive-video{
 	border:none;
 }
 }
-
 
 
 
