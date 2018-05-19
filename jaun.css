@@ -231,7 +231,7 @@ body{
  position: absolute;
  display: block;
  border-style: solid;
- border-color: #6666 transparent transparent transparent;
+ border-color: #666666fc transparent transparent transparent;
  bottom: -1em;
  z-index:7;
 }
@@ -738,7 +738,7 @@ body{
  position: absolute;
  display: block;
  border-style: solid;
- border-color: #6666 transparent transparent transparent;
+ border-color: #666666fc transparent transparent transparent;
  bottom: -1em;
  z-index:7;
 }
