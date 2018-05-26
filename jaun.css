@@ -13,8 +13,11 @@
 
 strong, b {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 15px;
 }
+h2 {
+    font-size: 20px;
+    font-weight: bold;
 
 img{
 	border:none;
@@ -1567,5 +1570,4 @@ video.responsive-video{
 	border:none;
 }
 }
-
 
