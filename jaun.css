@@ -133,7 +133,7 @@ body{
 	text-align:center;
 	float:left;
 	height:auto;
-	margin-top:-40px;
+	margin-top:0px;
 }
 .logo > a {
     display: inline-block;
@@ -1567,6 +1567,5 @@ video.responsive-video{
 	border:none;
 }
 }
-
 
 
