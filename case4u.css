@@ -37,8 +37,8 @@ a.text:hover{text-decoration:none}
 .promo .content .footer{display:inline-block;width:100%}
 .content .panel-default > .panel-heading{background:#219dc3!important;border-color:#219dc3!important;color:#fff;border-radius:0;font-size:18px;text-transform:uppercase;font-weight:400}
 .header-container{display:inline-block;width:100%;border:0;position:relative;display:inline-block;width:100%;border:0;position:relative}
-.header-container .header-top{display:inline-block;width:100%;padding:5px 0; text-align:center;background:#f5f5f5}
-.header-container .header-top span{color:#171717;font-size:14px;font-weight:600;font-family:'Open Sans',sans-serif}
+.header-container .header-top{display:inline-block;width:100%;padding:5px 0; margin-top: -20px; text-align:center;background:#f5f5f5}
+.header-container .header-top span{color:#171717;font-size:18px;font-weight:600;font-family:'Open Sans',sans-serif}
 .icon-menu-mb,.header-container .header-content .nav-trigger{display:none}
 .header-container .header-content .logo-content{display:inline-block;text-align:center;max-width:270px;margin:1.5em 0}
 .header-content{display:inline-block;width:100%;background:#FFF;padding-top: 48px;text-align:center}
@@ -138,7 +138,7 @@ a.text:hover{text-decoration:none}
 .tabarea section h2{font-size:18px;color:#252525;text-transform:uppercase;font-weight:600;line-height:25px;margin-top:10px}
 .tabarea section h3,.tabarea section h4,.tabarea section h5,.tabarea section h6{font-size:14px;color:#000;font-weight:700;line-height:20px;margin-top:10px}
 .description-tab p{margin:0 0 15px}
-.footer{background:#211D1E;padding:30px 0 0;color:#d1d1d1;margin-top:2em}
+.footer{background:#211D1E;padding:15px 0 0;color:#d1d1d1;margin-top:2em}
 .footer .head{font-size:20px;color:#fff;text-transform:uppercase;border-bottom:1px solid #474747;padding-bottom:5px;margin-bottom:8px;font-family:'Open Sans',sans-serif}
 .footer i{width:25px}
 .footer ul{margin:0;padding:10px 0 0}
