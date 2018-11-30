@@ -27,7 +27,7 @@ input[type=text]::-ms-reveal{display:none!important;width:0!important;height:0!i
 #Body .tab-content-m{float:left;width:100%}
 select:focus,button:focus,option:focus,select::-moz-focus-inner,option::-moz-focus-inner{outline:none!important;border:none!important}
 code{padding:2px;background:#ddd}
-img{max-width:100%}
+img{max-width:80%}
 #gh-logo{max-width:500%}
 .content-text a.text{cursor:text}
 a.text:hover{text-decoration:none}
