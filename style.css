@@ -759,7 +759,7 @@ footer{
     color: #fff !important;
 }
 footer .big_footer{
-    padding-top: 60px;
+    padding-top: 30px;
 }
 footer .big_footer p{
     font-size: 15px;
@@ -786,7 +786,7 @@ footer hr{
     border-color: #686c6a;
 }
 footer .small_footer{
-    padding-bottom: 20px;
+    padding-bottom: 5px;
 }
 footer .small_footer span{
     font-size: 14px;
