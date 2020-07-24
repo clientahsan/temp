@@ -64,6 +64,7 @@ header css start
 .main_menu{
     text-align: right;
     float: right;
+    padding-top: 25px;
 }
 .main_menu .toggle,
 [id^=drop] {
