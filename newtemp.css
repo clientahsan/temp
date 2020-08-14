@@ -1,0 +1,116 @@
+/* 
+footer css start 
+*/
+footer{
+    background-color: #262d29;
+    color: #fff !important;
+}
+footer .big_footer{
+    padding-top: 60px;
+}
+footer .big_footer p{
+    font-size: 15px;
+    padding-top: 35px;
+    max-width: 295px;
+    font-family: 'Montserrat', sans-serif; /*
+    line-height: 14.23px;*/
+}
+footer .big_footer h5{
+    margin-top: 0;
+    min-height: 40px; 
+    font-family: 'Montserrat', sans-serif;
+}
+footer .big_footer li a{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+footer .big_footer li{ 
+    padding-bottom: 8px;
+    font-weight: 400;
+}
+footer hr{
+    border-color: #686c6a;
+}
+footer .small_footer{
+    padding-bottom: 20px;
+}
+footer .small_footer span{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left; 
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+}
+footer .small_footer span.center_text{
+    text-align: center;
+}
+footer .small_footer span a{
+    color: #fff; 
+}
+/* 
+footer css end 
+*/
+/* 
+footer top css start 
+*/
+
+.button_section {
+    background-color: #d36472;
+    padding: 15px 0;
+    text-align: center;
+    border-bottom: 1px solid #f7f7f7;
+    clear: both;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+a, a:hover {
+    text-decoration: none;
+}
+.button_section .rose_button {
+    width: 100%;
+    max-width: 275px;
+    height: 43px;
+    background-color: #fff;
+    color: #d36472;
+    border: none;
+    margin-right: 15px;
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 5px;
+}
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
