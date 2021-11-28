@@ -148,7 +148,7 @@ List
     flex: 0 0 auto;
     position: relative;
     content: '';
-    background: url('../images/check.png') no-repeat center center;
+    background: url('https://artibaj.com/templates/artibaj/2-column-2/images/check.png') no-repeat center center;
     margin-right: 0.5rem;
     width: 10px;
     height: 1.1rem;
@@ -198,7 +198,7 @@ List-2
     flex: 0 0 auto;
     position: relative;
     content: '';
-    background: url('../images/check.png') no-repeat center center;
+    background: url('https://artibaj.com/templates/artibaj/2-column-2/images/check.png') no-repeat center center;
     margin-right: 0.5rem;
     width: 10px;
     height: 1.1rem;
